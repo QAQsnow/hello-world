@@ -16,7 +16,7 @@
 
 #test git
 
-#react 
+#react dom
 
 *{-webkit-tap-highlight-color:rgba(0,0,0,0);
 	-webkit-touch-callout:none;
